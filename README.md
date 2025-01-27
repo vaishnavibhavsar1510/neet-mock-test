@@ -40,16 +40,25 @@ An AI-driven solution to analyze quiz performance and provide personalized recom
 - Average time per question analysis
 - Time management recommendations
 
-### 🤖 AI-Powered Recommendations
+### 🤖 AI-Powered Recommendations (Done with adding bot)
 - Personalized study strategies
 - Data-driven improvement suggestions
 
 ###  Screenshots of Execution (Prototype)
 
-
+1. Test page UI
 ![Screenshot 2025-01-27 100537](https://github.com/user-attachments/assets/90c66678-e9d9-4803-a52e-8590a2e2ab4f)
+<br>
+2. Test UI and  Time counter (Chemistry)
 ![Screenshot 2025-01-27 100514](https://github.com/user-attachments/assets/ad1145f0-fee2-4dba-8513-a1c0f1baaf60)
+<br>
+3. Analysis page, Showing main in detail Comparitive performance analysis of student
+![Testline Prototype Submission Streamlit_by Vaishnavi_Bhavsar 8-26 screenshot](https://github.com/user-attachments/assets/a04e2fcf-b334-484b-9dd4-026cdb915db1)
 
+
+![Testline Prototype Submission Streamlit_by Vaishnavi_Bhavsar 6-27 screenshot](https://github.com/user-attachments/assets/771e6891-227b-4ebf-af27-f954c497190f)
+
+5. AI driven Chatbot coach to guide through doubts and mistakes:
 ![Screenshot 2025-01-26 225207](https://github.com/user-attachments/assets/48a40c32-7e1a-4d2f-aa2c-d434eb906cd8)
 
 ## Installation

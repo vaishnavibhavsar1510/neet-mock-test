@@ -20,24 +20,28 @@ An AI-driven solution to analyze quiz performance and provide personalized recom
 
 ## Features in Detail
 
-### Test Interface
-- Clean, intuitive UI
-- Progress tracking
-- Real-time timer
-- Easy navigation
+### 🎯 Test Taking
+- Real-time mock tests with timer
+- Subject-wise question organization
+- Auto-submission on time completion
+- Multiple test attempts available
 
-### Analysis Dashboard
-- Interactive visualizations
-- Subtopic performance breakdown
-- Strength/weakness identification
-- Progress tracking over time
+### 📊 Performance Analysis
+- Overall score calculation
+- Subject-wise performance metrics
+- Detailed subtopic analysis
+  - Physics: Mechanics, Optics, Nuclear Physics, Thermodynamics, Electromagnetism
+  - Chemistry: Physical, Inorganic, Organic, Solutions, Chemical Bonding
+  - Biology: Molecular Biology, Plant Physiology, Human Anatomy, Genetics, Ecology
 
-### AI Recommendations
-- Performance-based suggestions
-- Specific study strategies
-- Time management advice
-- Resource recommendations
+### ⏱️ Time Management
+- Question-wise time tracking
+- Average time per question analysis
+- Time management recommendations
 
+### 🤖 AI-Powered Recommendations
+- Personalized study strategies
+- Data-driven improvement suggestions
 
 
 ## Installation

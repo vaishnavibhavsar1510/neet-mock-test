@@ -54,10 +54,10 @@ An AI-driven solution to analyze quiz performance and provide personalized recom
 ![Screenshot 2025-01-27 100514](https://github.com/user-attachments/assets/ad1145f0-fee2-4dba-8513-a1c0f1baaf60)
 
   
-4. Analysis page, Showing main in detail Comparitive performance analysis of student
+3. Analysis page, Showing main in detail Comparitive performance analysis of student
 ![Testline Prototype Submission Streamlit_by Vaishnavi_Bhavsar 8-26 screenshot](https://github.com/user-attachments/assets/a04e2fcf-b334-484b-9dd4-026cdb915db1)
 
-
+4. Subject-wise performance metrics, Detailed subtopic analysis
 ![Testline Prototype Submission Streamlit_by Vaishnavi_Bhavsar 6-27 screenshot](https://github.com/user-attachments/assets/771e6891-227b-4ebf-af27-f954c497190f)
 
 5. AI driven Chatbot coach to guide through doubts and mistakes:

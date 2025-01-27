@@ -47,32 +47,32 @@ An AI-driven solution to analyze quiz performance and provide personalized recom
 ## Installation
 
 1. Clone the repository:
-   git clone [(https://github.com/vaishnavibhavsar1510/neet-mock-test.git)]
+   git clone [(https://github.com/vaishnavibhavsar1510/neet-mock-test.git)]   <br>
    cd student_recommendations
 
-2. Create a virtual environment:
-   bash
-   python -m venv venv
-   source venv/bin/activate # On Windows: venv\Scripts\activate
+2. Create a virtual environment:    <br>
+   bash      <br>
+   python -m venv venv    <br>
+   source venv/bin/activate # On Windows: venv\Scripts\activate    <br>
 
 3. Install dependencies:
-   bash
-   pip install -r requirements.txt
+   bash    <br>
+   pip install -r requirements.txt   <br>
 
-4. Run the application:
-   bash
-   streamlit run app.py
+4. Run the application:    <br>
+   bash    <br>
+   streamlit run app.py   <br>
 
 ## Project Structure
     student_recommendations/
-├── src/
-│ ├── app.py # Main application
-│ ├── analyzer.py # Performance analysis logic
-│ ├── recommender.py # Recommendation system
-│ └── data_loader.py # Data handling
-├── tests/ # Test files
-├── requirements.txt # Dependencies
-└── README.md # Documentation
+├── src/    <br>
+│ ├── app.py # Main application    <br>
+│ ├── analyzer.py # Performance analysis logic    <br>
+│ ├── recommender.py # Recommendation system     <br>
+│ └── data_loader.py # Data handling     <br>
+├── tests/ # Test files   <br>
+├── requirements.txt # Dependencies    <br>
+└── README.md # Documentation    <br>
 
 
 ## Contributing

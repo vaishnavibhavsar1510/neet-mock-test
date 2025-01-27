@@ -47,12 +47,12 @@ An AI-driven solution to analyze quiz performance and provide personalized recom
 ###  Screenshots of Execution (Prototype)
 
 1. Test page UI
-![Screenshot 2025-01-27 100537](https://github.com/user-attachments/assets/90c66678-e9d9-4803-a52e-8590a2e2ab4f)
-
-3. Test UI and  Time counter (Chemistry)
    
 ![Screenshot 2025-01-27 100514](https://github.com/user-attachments/assets/ad1145f0-fee2-4dba-8513-a1c0f1baaf60)
 
+2. Test UI and  Time counter (Chemistry)
+
+![Screenshot 2025-01-27 100537](https://github.com/user-attachments/assets/90c66678-e9d9-4803-a52e-8590a2e2ab4f)
   
 3. Analysis page, Showing main in detail Comparitive performance analysis of student
 ![Testline Prototype Submission Streamlit_by Vaishnavi_Bhavsar 8-26 screenshot](https://github.com/user-attachments/assets/a04e2fcf-b334-484b-9dd4-026cdb915db1)

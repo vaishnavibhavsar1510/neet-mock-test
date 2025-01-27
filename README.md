@@ -9,7 +9,8 @@ An AI-driven solution to analyze quiz performance and provide personalized recom
 - Generates personalized study recommendations
 - Determines student learning persona
 - Provides actionable improvement strategies
-
+  
+## YouTube Prototype working link: https://youtu.be/KW0PL0YNdnA
 
 ## Technologies Used
 - Python 3.8+
